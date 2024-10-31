@@ -1,0 +1,14 @@
+D:\projects\HSELAB3\HSELAB3\bin\Debug\net8.0\HSELAB3.exe
+D:\projects\HSELAB3\HSELAB3\bin\Debug\net8.0\HSELAB3.deps.json
+D:\projects\HSELAB3\HSELAB3\bin\Debug\net8.0\HSELAB3.runtimeconfig.json
+D:\projects\HSELAB3\HSELAB3\bin\Debug\net8.0\HSELAB3.dll
+D:\projects\HSELAB3\HSELAB3\bin\Debug\net8.0\HSELAB3.pdb
+D:\projects\HSELAB3\HSELAB3\obj\Debug\net8.0\HSELAB3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HSELAB3\HSELAB3\obj\Debug\net8.0\HSELAB3.AssemblyInfoInputs.cache
+D:\projects\HSELAB3\HSELAB3\obj\Debug\net8.0\HSELAB3.AssemblyInfo.cs
+D:\projects\HSELAB3\HSELAB3\obj\Debug\net8.0\HSELAB3.csproj.CoreCompileInputs.cache
+D:\projects\HSELAB3\HSELAB3\obj\Debug\net8.0\HSELAB3.dll
+D:\projects\HSELAB3\HSELAB3\obj\Debug\net8.0\refint\HSELAB3.dll
+D:\projects\HSELAB3\HSELAB3\obj\Debug\net8.0\HSELAB3.pdb
+D:\projects\HSELAB3\HSELAB3\obj\Debug\net8.0\HSELAB3.genruntimeconfig.cache
+D:\projects\HSELAB3\HSELAB3\obj\Debug\net8.0\ref\HSELAB3.dll

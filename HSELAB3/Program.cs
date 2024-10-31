@@ -14,7 +14,7 @@ class Program
         Console.WriteLine("Вычисление функции");
         Console.WriteLine($"{"X",10}\t{"SN",10}\t{"SE",10}\t{"Y",10}");
  
-        for (int i = 0; i < k; i++)
+        for (int i = 0; i <= k; i++)
         {
             double x = a + i * h;
  
